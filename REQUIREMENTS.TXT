@@ -1,0 +1,15 @@
+# Requirements
+Python 3.x
+Google Colab / Jupyter Notebook
+LangChain
+LangChain Community
+LangChain Hugging Face
+LangChain Text Splitters
+FAISS
+Sentence Transformers
+Hugging Face Hub
+Transformers
+PyTorch
+Google Drive
+all-MiniLM-L6-v2
+Qwen2.5-3B-Instruct
